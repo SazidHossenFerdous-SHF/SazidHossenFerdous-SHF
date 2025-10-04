@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sajit Hossen Ferdous</h1>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="Gemini_Generated_Image_x5b7rbx5b7rbx5b7.png" /></a></p>
 
 # 💫 About Me:
 I'm a self-taught passionate student of Computer Science and Engineering
