@@ -1,7 +1,7 @@
 <p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="sazidhossenferdous.png" /></a></p>
 
 # 💫 About Me:
-I'm a self-taught passionate student of Computer Science and Engineering
+👨‍💻 Self-taught programmer | 🧩 Passionate about solving real-world problems and building impactful solutions.
 
 
 ## 🌐 Socials:
