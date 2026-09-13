@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" src="sazidhossenferdous.png" /></a></p>
+<p align="center"><a href="https://me.uniqtrix.com"><img width="80%" src="sazidhossenferdous.png" /></a></p>
 
 # 💫 About Me:
 👨‍💻 Self-taught programmer | 🧩 Passionate about solving real-world problems and building impactful solutions.
