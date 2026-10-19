@@ -31,7 +31,6 @@ As the **Founder & CEO of [Uniqtrix](https://uniqtrix.com)**, I also work across
 
 ## 🛠️ Technical Skills
 
-*This is a broad overview of technologies and tools I know, use, or am actively learning. It does not imply expert-level proficiency in every item.*
 
 ### ☁️ Cloud, DevOps & Infrastructure
 <p>
